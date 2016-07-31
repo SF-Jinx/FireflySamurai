@@ -1,0 +1,2669 @@
+fileFormatVersion: 2
+guid: 4bc04d893b2eb044fb50c9f649b1a014
+timeCreated: 1469929516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chrono-sprite-sheet_0
+    21300002: chrono-sprite-sheet_1
+    21300004: chrono-sprite-sheet_2
+    21300006: chrono-sprite-sheet_3
+    21300008: chrono-sprite-sheet_4
+    21300010: chrono-sprite-sheet_5
+    21300012: chrono-sprite-sheet_6
+    21300014: chrono-sprite-sheet_7
+    21300016: chrono-sprite-sheet_8
+    21300018: chrono-sprite-sheet_9
+    21300020: chrono-sprite-sheet_10
+    21300022: chrono-sprite-sheet_11
+    21300024: chrono-sprite-sheet_12
+    21300026: chrono-sprite-sheet_13
+    21300028: chrono-sprite-sheet_14
+    21300030: chrono-sprite-sheet_15
+    21300032: chrono-sprite-sheet_16
+    21300034: chrono-sprite-sheet_17
+    21300036: chrono-sprite-sheet_18
+    21300038: chrono-sprite-sheet_19
+    21300040: chrono-sprite-sheet_20
+    21300042: chrono-sprite-sheet_21
+    21300044: chrono-sprite-sheet_22
+    21300046: chrono-sprite-sheet_23
+    21300048: chrono-sprite-sheet_24
+    21300050: chrono-sprite-sheet_25
+    21300052: chrono-sprite-sheet_26
+    21300054: chrono-sprite-sheet_27
+    21300056: chrono-sprite-sheet_28
+    21300058: chrono-sprite-sheet_29
+    21300060: chrono-sprite-sheet_30
+    21300062: chrono-sprite-sheet_31
+    21300064: chrono-sprite-sheet_32
+    21300066: chrono-sprite-sheet_33
+    21300068: chrono-sprite-sheet_34
+    21300070: chrono-sprite-sheet_35
+    21300072: chrono-sprite-sheet_36
+    21300074: chrono-sprite-sheet_37
+    21300076: chrono-sprite-sheet_38
+    21300078: chrono-sprite-sheet_39
+    21300080: chrono-sprite-sheet_40
+    21300082: chrono-sprite-sheet_41
+    21300084: chrono-sprite-sheet_42
+    21300086: chrono-sprite-sheet_43
+    21300088: chrono-sprite-sheet_44
+    21300090: chrono-sprite-sheet_45
+    21300092: chrono-sprite-sheet_46
+    21300094: chrono-sprite-sheet_47
+    21300096: chrono-sprite-sheet_48
+    21300098: chrono-sprite-sheet_49
+    21300100: chrono-sprite-sheet_50
+    21300102: chrono-sprite-sheet_51
+    21300104: chrono-sprite-sheet_52
+    21300106: chrono-sprite-sheet_53
+    21300108: chrono-sprite-sheet_54
+    21300110: chrono-sprite-sheet_55
+    21300112: chrono-sprite-sheet_56
+    21300114: chrono-sprite-sheet_57
+    21300116: chrono-sprite-sheet_58
+    21300118: chrono-sprite-sheet_59
+    21300120: chrono-sprite-sheet_60
+    21300122: chrono-sprite-sheet_61
+    21300124: chrono-sprite-sheet_62
+    21300126: chrono-sprite-sheet_63
+    21300128: chrono-sprite-sheet_64
+    21300130: chrono-sprite-sheet_65
+    21300132: chrono-sprite-sheet_66
+    21300134: chrono-sprite-sheet_67
+    21300136: chrono-sprite-sheet_68
+    21300138: chrono-sprite-sheet_69
+    21300140: chrono-sprite-sheet_70
+    21300142: chrono-sprite-sheet_71
+    21300144: chrono-sprite-sheet_72
+    21300146: chrono-sprite-sheet_73
+    21300148: chrono-sprite-sheet_74
+    21300150: chrono-sprite-sheet_75
+    21300152: chrono-sprite-sheet_76
+    21300154: chrono-sprite-sheet_77
+    21300156: chrono-sprite-sheet_78
+    21300158: chrono-sprite-sheet_79
+    21300160: chrono-sprite-sheet_80
+    21300162: chrono-sprite-sheet_81
+    21300164: chrono-sprite-sheet_82
+    21300166: chrono-sprite-sheet_83
+    21300168: chrono-sprite-sheet_84
+    21300170: chrono-sprite-sheet_85
+    21300172: chrono-sprite-sheet_86
+    21300174: chrono-sprite-sheet_87
+    21300176: chrono-sprite-sheet_88
+    21300178: chrono-sprite-sheet_89
+    21300180: chrono-sprite-sheet_90
+    21300182: chrono-sprite-sheet_91
+    21300184: chrono-sprite-sheet_92
+    21300186: chrono-sprite-sheet_93
+    21300188: chrono-sprite-sheet_94
+    21300190: chrono-sprite-sheet_95
+    21300192: chrono-sprite-sheet_96
+    21300194: chrono-sprite-sheet_97
+    21300196: chrono-sprite-sheet_98
+    21300198: chrono-sprite-sheet_99
+    21300200: chrono-sprite-sheet_100
+    21300202: chrono-sprite-sheet_101
+    21300204: chrono-sprite-sheet_102
+    21300206: chrono-sprite-sheet_103
+    21300208: chrono-sprite-sheet_104
+    21300210: chrono-sprite-sheet_105
+    21300212: chrono-sprite-sheet_106
+    21300214: chrono-sprite-sheet_107
+    21300216: chrono-sprite-sheet_108
+    21300218: chrono-sprite-sheet_109
+    21300220: chrono-sprite-sheet_110
+    21300222: chrono-sprite-sheet_111
+    21300224: chrono-sprite-sheet_112
+    21300226: chrono-sprite-sheet_113
+    21300228: chrono-sprite-sheet_114
+    21300230: chrono-sprite-sheet_115
+    21300232: chrono-sprite-sheet_116
+    21300234: chrono-sprite-sheet_117
+    21300236: chrono-sprite-sheet_118
+    21300238: chrono-sprite-sheet_119
+    21300240: chrono-sprite-sheet_120
+    21300242: chrono-sprite-sheet_121
+    21300244: chrono-sprite-sheet_122
+    21300246: chrono-sprite-sheet_123
+    21300248: chrono-sprite-sheet_124
+    21300250: chrono-sprite-sheet_125
+    21300252: chrono-sprite-sheet_126
+    21300254: chrono-sprite-sheet_127
+    21300256: chrono-sprite-sheet_128
+    21300258: chrono-sprite-sheet_129
+    21300260: chrono-sprite-sheet_130
+    21300262: chrono-sprite-sheet_131
+    21300264: chrono-sprite-sheet_132
+    21300266: chrono-sprite-sheet_133
+    21300268: chrono-sprite-sheet_134
+    21300270: chrono-sprite-sheet_135
+    21300272: chrono-sprite-sheet_136
+    21300274: chrono-sprite-sheet_137
+    21300276: chrono-sprite-sheet_138
+    21300278: chrono-sprite-sheet_139
+    21300280: chrono-sprite-sheet_140
+    21300282: chrono-sprite-sheet_141
+    21300284: chrono-sprite-sheet_142
+    21300286: chrono-sprite-sheet_143
+    21300288: chrono-sprite-sheet_144
+    21300290: chrono-sprite-sheet_145
+    21300292: chrono-sprite-sheet_146
+    21300294: chrono-sprite-sheet_147
+    21300296: chrono-sprite-sheet_148
+    21300298: chrono-sprite-sheet_149
+    21300300: chrono-sprite-sheet_150
+    21300302: chrono-sprite-sheet_151
+    21300304: chrono-sprite-sheet_152
+    21300306: chrono-sprite-sheet_153
+    21300308: chrono-sprite-sheet_154
+    21300310: chrono-sprite-sheet_155
+    21300312: chrono-sprite-sheet_156
+    21300314: chrono-sprite-sheet_157
+    21300316: chrono-sprite-sheet_158
+    21300318: chrono-sprite-sheet_159
+    21300320: chrono-sprite-sheet_160
+    21300322: chrono-sprite-sheet_161
+    21300324: chrono-sprite-sheet_162
+    21300326: chrono-sprite-sheet_163
+    21300328: chrono-sprite-sheet_164
+    21300330: chrono-sprite-sheet_165
+    21300332: chrono-sprite-sheet_166
+    21300334: chrono-sprite-sheet_167
+    21300336: chrono-sprite-sheet_168
+    21300338: chrono-sprite-sheet_169
+    21300340: chrono-sprite-sheet_170
+    21300342: chrono-sprite-sheet_171
+    21300344: chrono-sprite-sheet_172
+    21300346: chrono-sprite-sheet_173
+    21300348: chrono-sprite-sheet_174
+    21300350: chrono-sprite-sheet_175
+    21300352: chrono-sprite-sheet_176
+    21300354: chrono-sprite-sheet_177
+    21300356: chrono-sprite-sheet_178
+    21300358: chrono-sprite-sheet_179
+    21300360: chrono-sprite-sheet_180
+    21300362: chrono-sprite-sheet_181
+    21300364: chrono-sprite-sheet_182
+    21300366: chrono-sprite-sheet_183
+    21300368: chrono-sprite-sheet_184
+    21300370: chrono-sprite-sheet_185
+    21300372: chrono-sprite-sheet_186
+    21300374: chrono-sprite-sheet_187
+    21300376: chrono-sprite-sheet_188
+    21300378: chrono-sprite-sheet_189
+    21300380: chrono-sprite-sheet_190
+    21300382: chrono-sprite-sheet_191
+    21300384: chrono-sprite-sheet_192
+    21300386: chrono-sprite-sheet_193
+    21300388: chrono-sprite-sheet_194
+    21300390: chrono-sprite-sheet_195
+    21300392: chrono-sprite-sheet_196
+    21300394: chrono-sprite-sheet_197
+    21300396: chrono-sprite-sheet_198
+    21300398: chrono-sprite-sheet_199
+    21300400: chrono-sprite-sheet_200
+    21300402: chrono-sprite-sheet_201
+    21300404: chrono-sprite-sheet_202
+    21300406: chrono-sprite-sheet_203
+    21300408: chrono-sprite-sheet_204
+    21300410: chrono-sprite-sheet_205
+    21300412: chrono-sprite-sheet_206
+    21300414: chrono-sprite-sheet_207
+    21300416: chrono-sprite-sheet_208
+    21300418: chrono-sprite-sheet_209
+    21300420: chrono-sprite-sheet_210
+    21300422: chrono-sprite-sheet_211
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chrono-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: chrono-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 731
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 731
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 731
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 731
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 731
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 731
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 731
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 731
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 731
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 731
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 731
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 711
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 688
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 688
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 688
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 688
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 688
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 688
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 688
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 688
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 688
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 688
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 688
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 688
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 688
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 693
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 648
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 648
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 648
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 648
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 648
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 648
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 648
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 648
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 648
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 648
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 648
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 497
+        width: 56
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 71}
+        - {x: -28, y: -71}
+        - {x: 11, y: -71}
+        - {x: 28, y: -57}
+        - {x: 28, y: 71}
+    - name: chrono-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 605
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 605
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 605
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 605
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 605
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 605
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 597
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 589
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 589
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 597
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 597
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -17.5, y: -6}
+        - {x: -13.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 16}
+        - {x: 4.5, y: 20}
+    - name: chrono-sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 563
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 563
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 563
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 541
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 541
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 541
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 541
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 541
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 520
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 520
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 520
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 520
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 520
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 520
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 521
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 521
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 521
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 486
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 486
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 480
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 480
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 480
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 480
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 480
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 480
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 486
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 486
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 486
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 56
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 71}
+        - {x: -25, y: 71}
+        - {x: -28, y: 66}
+        - {x: -28, y: 0}
+        - {x: -14, y: -62}
+        - {x: -7, y: -71}
+        - {x: 3, y: -71}
+        - {x: 10, y: -64}
+        - {x: 28, y: 0}
+    - name: chrono-sprite-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 438
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 438
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 434
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 437
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 437
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 437
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 437
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 438
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 6}
+        - {x: 0, y: 16}
+    - name: chrono-sprite-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 17}
+        - {x: -11.5, y: 17}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: 9}
+        - {x: 0.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 7}
+        - {x: 16.5, y: 14}
+    - name: chrono-sprite-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 436
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 391
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 391
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 391
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 391
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 392
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 392
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 392
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 392
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 383
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 350
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 350
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 350
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 350
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 350
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 350
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 350
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 343
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 339
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 353
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 35}
+        - {x: 19.5, y: 36}
+        - {x: -23.5, y: 36}
+        - {x: -31.5, y: 13}
+        - {x: -31.5, y: -36}
+        - {x: -3.5, y: -36}
+        - {x: 15.5, y: -29}
+        - {x: 31.5, y: -9}
+        - {x: 31.5, y: 11}
+        - {x: 29.5, y: 15}
+    - name: chrono-sprite-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 310
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 310
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 310
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 289
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 289
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 289
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 289
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 272
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 272
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 272
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 247
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 247
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 247
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 36}
+        - {x: -18, y: 36}
+        - {x: -18, y: -36}
+        - {x: 4, y: -36}
+        - {x: 9, y: -21}
+        - {x: 9, y: -19}
+        - {x: 18, y: 6}
+    - name: chrono-sprite-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 227
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 227
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 227
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 227
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 198
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 206
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 206
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 184
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 184
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 185
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 160
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 159
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 159
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 159
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 159
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_171
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 159
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_172
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_173
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_176
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 104
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_178
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_180
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 103
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_181
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 116
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_182
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 116
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_183
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 116
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_184
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 81
+        width: 131
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 32}
+        - {x: -65.5, y: 29}
+        - {x: -65.5, y: -32}
+        - {x: 65.5, y: -32}
+        - {x: 65.5, y: 15}
+        - {x: 62.5, y: 32}
+    - name: chrono-sprite-sheet_185
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_186
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_187
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_189
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_190
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 68
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_191
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_192
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_193
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 70
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_194
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 70
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_195
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_196
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_197
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_198
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 70
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_199
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_200
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_201
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_202
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 70
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_203
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_204
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_205
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_206
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_207
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_208
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 70
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_209
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 70
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_210
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 69
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chrono-sprite-sheet_211
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 475
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -234.5, y: 30}
+        - {x: -237.5, y: 27}
+        - {x: -237.5, y: -30}
+        - {x: 237.5, y: -30}
+        - {x: 237.5, y: 27}
+        - {x: 234.5, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
